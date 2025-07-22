@@ -1,0 +1,13 @@
+{
+  "name": "com.zeroultra.quicksceneswitcher",
+  "version": "1.0.0",
+  "displayName": "QuickSceneSwitcher",
+  "description": "QuickSceneSwitcher",
+  "documentationUrl": "https://github.com/ZeroUltra/QuickSceneSwitcher",
+  "changelogUrl": "https://github.com/ZeroUltra/QuickSceneSwitcher",
+  "licensesUrl": "https://github.com/ZeroUltra/QuickSceneSwitcher",
+  "keywords": ["Scene"],
+  "author": {
+    "name": "ZeroUltra"
+  }
+}
